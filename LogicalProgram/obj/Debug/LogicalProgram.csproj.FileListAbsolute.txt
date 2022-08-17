@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\DotNetCore\ConsoleApp3\LogicalProgram\bin\Debug\LogicalProgram.exe.config
+C:\Users\Admin\Desktop\DotNetCore\ConsoleApp3\LogicalProgram\bin\Debug\LogicalProgram.exe
+C:\Users\Admin\Desktop\DotNetCore\ConsoleApp3\LogicalProgram\bin\Debug\LogicalProgram.pdb
+C:\Users\Admin\Desktop\DotNetCore\ConsoleApp3\LogicalProgram\obj\Debug\LogicalProgram.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DotNetCore\ConsoleApp3\LogicalProgram\obj\Debug\LogicalProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\DotNetCore\ConsoleApp3\LogicalProgram\obj\Debug\LogicalProgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNetCore\ConsoleApp3\LogicalProgram\obj\Debug\LogicalProgram.exe
+C:\Users\Admin\Desktop\DotNetCore\ConsoleApp3\LogicalProgram\obj\Debug\LogicalProgram.pdb
